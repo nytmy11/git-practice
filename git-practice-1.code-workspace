@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "kagglebook",
+			"path": "../kagglebook"
+		}
+	],
+	"settings": {}
+}
